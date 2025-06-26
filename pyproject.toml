@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "carpoolsim"
-version = "0.1.1"
+version = "0.2.0"
 description = "A simulation tool to find as many as carpool-able trips given drive-alone trips"
 authors = ["Diyi Liu"]
 license = "GPL-3.0-or-later"
